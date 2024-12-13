@@ -204,77 +204,8 @@
         <!-- End - Video -->
 
         <hr class="my-8">
-
-        <div class="row">
-          <div class="col-md-4 mb-3 mb-md-0">
-            <h3 class="h5 font-weight-normal"><i class="fas fa-users text-primary mr-2"></i> Teamwork</h3>
-            <p>Makes the Dreamwork, wir setzen auf qualitative Zusammenarbeit.</p>
-          </div>
-          <div class="col-md-4 mb-3 mb-md-0">
-            <h3 class="h5 font-weight-normal"><i class="fas fa-tools text-primary mr-2"></i> Technik</h3>
-            <p>Mit den neuesten und renommiertesten Programmen zum Erfolg.</p>
-          </div>
-          <div class="col-md-4">
-            <h3 class="h5 font-weight-normal"><i class="fas fa-layer-group text-primary mr-2"></i> Workflows</h3>
-            <p>Durch ausgeklügelte Arbeitsabläufe erarbeiten wir einen hohen Standard.</p>
-          </div>
-        </div>
-      </div>
     </section>
     <!-- End - Presentation -->
-
-    <!-- Our team 
-    <section id="our-team" class="bg-primary-light py-11">
-      <div class="container">
-        <div class="w-md-75 w-lg-50 mx-auto text-center mb-9">
-          <h2 class="h3 text-center text-uppercase">Sie werden betreut von</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper diam vel tempus dignissim</p>
-        </div>
-
-        <div style="overflow-x: hidden" class="row">
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
-            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
-            <h4 class="text-uppercase mb-0">Name</h4>
-            <p class="text-uppercase">Fondateur</p>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
-            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
-            <h4 class="text-uppercase mb-0">Name</h4>
-            <p class="text-uppercase">Developer</p>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
-            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
-            <h4 class="text-uppercase mb-0">Name</h4>
-            <p class="text-uppercase">Graphic designer</p>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
-            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
-            <h4 class="text-uppercase mb-0">Name</h4>
-            <p class="text-uppercase">Administrator</p>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5 mb-md-0" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
-            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
-            <h4 class="text-uppercase mb-0">Name</h4>
-            <p class="text-uppercase">Moderator</p>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5 mb-md-0" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
-            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
-            <h4 class="text-uppercase mb-0">Name</h4>
-            <p class="text-uppercase">Support</p>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5 mb-md-0" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
-            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
-            <h4 class="text-uppercase mb-0">Name</h4>
-            <p class="text-uppercase">Support</p>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5 mb-md-0" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
-            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
-            <h4 class="text-uppercase mb-0">Name</h4>
-            <p class="text-uppercase">Support</p>
-          </div>
-      </div>
-    </section>
-     End - Our team -->
 
     <!-- Portfolio -->
     <section id="portfolio" class="bg-light py-11">

@@ -141,30 +141,6 @@
   </a>
   <!-- End - Go to Top -->
 
-  <?php
-    // Database connection \\
-    if ($database_connection == 0) {
-      echo '
-        <div id="modalDatabaseConnection" class="modal fade" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="modalDatabaseConnection" aria-hidden="true">
-          <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title text-uppercase">A problem has occurred</h5>
-              </div>
-              <div class="modal-body">
-                <p>The connection to the database of your server has not been done properly, please check the information you put in the <span class="font-weight-bold">config.php</span> located in the <span class="font-weight-bold">include</span> folder.</p>
-                <p class="mb-0">If the problem persists, contact The-Programmer to solve the problem.</p>
-              </div>
-              <div class="modal-footer">
-                <button class="btn btn-sm btn-primary" type="button" onClick="window.location.reload();"><i class="fas fa-sync-alt mr-1"></i> Refresh</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      ';
-    }
-  ?>
-
   <!-- JS - Global Compulsory -->
   <script src="../assets/vendor/jquery/dist/jquery.min.js"></script>
   <script src="../assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
@@ -174,22 +150,5 @@
   <!-- JS -->
   <script src="../assets/js/main.js"></script>
   <script src="../assets/js/header-fixing.js"></script>
-
-  <?php 
-    // Database connection \\
-    if ($database_connection == 0) {
-      echo "
-        <script>
-          $('#modalDatabaseConnection').modal('toggle');
-
-          function refresh(time)
-          {
-            setTimeout(function () { window.location.reload(); }, time*1000);
-          }
-          refresh(60);
-        </script>
-      ";
-    }
-  ?>
 </body>
 </html>

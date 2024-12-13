@@ -21,34 +21,34 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="../assets/img/favicon/favicon-<?php echo $info_website_color; ?>.ico">
+  <link rel="shortcut icon" href="assets/img/favicon.png">
 
   <!--  Meta tags -->
   <meta name="keywords" content="<?php echo $info_website_keywords; ?>">
   <meta name="description" content="<?php echo $info_website_description; ?>">
-  <meta name="author" content="Skyrise - The-Programmer">
+  <meta name="author" content="Werbeschmiede">
   <meta name="robots" content="index, follow">
 
   <!-- Schema.org -->
-  <meta itemprop="name" content="<?php echo "Server rules - ".$info_website_name; ?>">
-  <meta itemprop="url" content="<?php echo $websiteUrl."rules/"; ?>">
-  <meta itemprop="description" content="Find the rules of our server on this page.">
+  <meta itemprop="name" content="<?php echo "Design - ".$info_website_name; ?>">
+  <meta itemprop="url" content="<?php echo $websiteUrl."design/"; ?>">
+  <meta itemprop="description" content="Finde alles über unsere Services im Design heraus.">
   <meta itemprop="image" content="../assets/img/backgrounds/home.jpg">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="<?php echo $host_web_site; ?>">
-  <meta name="twitter:title" content="<?php echo "Server rules - ".$info_website_name; ?>">
-  <meta name="twitter:url" content="<?php echo $websiteUrl."rules/"; ?>">
-  <meta name="twitter:description" content="Find the rules of our server on this page.">
+  <meta name="twitter:title" content="<?php echo "Design - ".$info_website_name; ?>">
+  <meta name="twitter:url" content="<?php echo $websiteUrl."design/"; ?>">
+  <meta name="twitter:description" content="Finde alles über unsere Services im Design heraus.">
   <meta name="twitter:image" content="../assets/img/backgrounds/home.jpg">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="<?php echo "Server rules - ".$info_website_name; ?>">
+  <meta property="og:title" content="<?php echo "Design - ".$info_website_name; ?>">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="<?php echo $websiteUrl."rules/"; ?>">
+  <meta property="og:url" content="<?php echo $websiteUrl."design/"; ?>">
   <meta property="og:image" content="../assets/img/backgrounds/home.jpg">
-  <meta property="og:description" content="Find the rules of our server on this page.">
+  <meta property="og:description" content="Finde alles über unsere Services im Design heraus.">
   <meta property="og:site_name" content="<?php echo $info_website_name; ?>">
   <meta property="og:locale" content="<?php echo $info_website_language_og; ?>">
 
@@ -72,8 +72,8 @@
     <div class="container duik-promo-container">
       <div class="d-flex justify-content-center position-relative mh-25rem pt-11 py-6">
         <div class="align-self-center w-md-75">
-          <h1 class="animate__animated animate__fadeInUp text-white text-uppercase">Server rules</h1>
-          <p class="text-light mb-0">Find the rules of our server on this page</p>
+          <h1 class="animate__animated animate__fadeInUp text-white text-uppercase">Design</h1>
+          <p class="text-light mb-0">Finde alles über unsere Services im Design heraus.</p>
         </div>
       </div>
     </div>

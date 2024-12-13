@@ -85,7 +85,7 @@
       <div class="d-flex justify-content-center text-center position-relative h-100vh">
         <div class="align-self-center">
           <h1 class="animate__animated animate__zoomInDown header-home-font-size-title header-home-mb-subtitle text-white text-uppercase"><span class="text-primary">WerbeSchmiede</span></h1>
-          <p class="animate__animated animate__fadeIn lead header-home-font-size-subtitle header-home-mb-button">Werbeagentur</p>
+          <p class="animate__animated animate__fadeIn lead header-home-font-size-subtitle header-home-mb-button">Werbeagentur TEST</p>
           <a class="btn btn btn-light text-uppercase mb-3 mb-md-0 mr-3" href="<?php echo $info_mail_link; ?>">
             <i class="far fa-envelope mr-2"></i>
             Mail

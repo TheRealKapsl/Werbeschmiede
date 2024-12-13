@@ -87,19 +87,244 @@
   </section>
   <!-- End - Promo Section -->
 
-  <main>
-    <div class="container py-11">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="mb-6">
-            <h2 class="h5 text-uppercase">Work in Progress</h2>
+  <main class="bg-light">
+    <!-- Values -->
+    <section id="values" class="bg-dark position-relative py-11">
+      <div class="container">
+        <div class="w-md-75 w-lg-50 text-center mx-auto mb-6">
+          <h2 class="text-light text-center mb-0">Unsere Werte</h2>
+          <p class="text-grey mb-0">und was uns ausmacht!</p>
+        </div>
 
-            <p>Wir abreiten aktuell an einem ausführlichen Text!</p>
+        <div class="row position-relative z-index-1">
+          <div class="col-md-6 mb-5" data-aos="flip-left">
+            <div class="media h-100 bg-light shadow-custom rounded p-4">
+              <i class="far fa-fw fa-dot-circle fa-3x text-warning mr-4 mt-1"></i>
+
+              <div class="media-body">
+                <h5 class="text-uppercase mb-1">Effizent</h5>
+                <p class="mb-0">Keine unnötogen Wartezeiten.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-5" data-aos="flip-right">
+            <div class="media h-100 bg-light shadow-custom rounded p-4">
+              <i class="far fa-fw fa-dot-circle fa-3x text-info mr-4 mt-1"></i>
+
+              <div class="media-body">
+                <h5 class="text-uppercase mb-1">Persönlich</h5>
+                <p class="mb-0">Wir wollen dass das Ergebnis zu Ihnen passt.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-5" data-aos="flip-left">
+            <div class="media h-100 bg-light shadow-custom rounded p-4">
+              <i class="far fa-fw fa-dot-circle fa-3x text-secondary mr-4 mt-1"></i>
+
+              <div class="media-body">
+                <h5 class="text-uppercase mb-1">Fair</h5>
+                <p class="mb-0">Vom den Arbeitsabläufen bis zum Preis.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 mb-5" data-aos="flip-right">
+            <div class="media h-100 bg-light shadow-custom rounded p-4">
+              <i class="far fa-fw fa-dot-circle fa-3x text-danger mr-4 mt-1"></i>
+
+              <div class="media-body">
+                <h5 class="text-uppercase mb-1">Innovativ</h5>
+                <p class="mb-0">Statt 08/15.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <svg class="position-absolute bottom-0 left-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 300">
+          <path id="Path_11" fill="#f8fafd" data-name="Path 1" d="M0,1081.586H1920v-300Z" transform="translate(0 -781.586)"></path>
+        </svg>
+      </div>
+    </section>
+
+    <section class="bg-light py-11">
+      <div class="container">
+        <!-- Social Media Marketing -->
+        <div style="overflow-x: hidden" class="row">
+          <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
+            <h3 class="h4 text-uppercase mb-2">Social Media Marketing</h3>
+            <p>Mittlerweile betreuen wir multible Social Media Kanäle mit einer <strong class="text-primary">stätig wachsenden Reichweite</strong> und mehrere <strong class="text-primary">Tausden Follower</strong>.</p>
+            <p class="mb-5">Wir erschaffen gemeinsam mit Ihnen ein <strong class="text-primary">maßgeschniedertes Marketingkonzept</strong> welches genau für Ihr Unternehmen und Projekt geeignet ist und passen dies laufend an.</p>
+            <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."socialmedia/"; ?>">
+              <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
+            </a>
+          </div>
+
+          <div class="col-lg-5 order-first order-lg-last mb-4 mb-lg-0" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
+            <img class="img-fluid" src="assets/img/backgrounds/socialmedia.png" alt="Social Media Marketing" loading="lazy">
+          </div>
+        </div>
+        <!-- End - Social Media Marketing -->
+
+        <hr class="my-8">
+
+        <!-- Corporate Design -->
+        <div style="overflow-x: hidden" class="row">
+          <div class="col-lg-5 mb-4 mb-lg-0" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
+            <img class="img-fluid" src="assets/img/backgrounds/corporatedesign.png" alt="Corporate Design" loading="lazy">
+          </div>
+
+          <div class="col-lg-7 align-self-center pl-lg-5">
+            <h3 class="h4 text-uppercase mb-2">Corporate Design</h3>
+            <p class="mb-5">Wir schaffen <strong class="text-primary">Wiedererkennungswerte</strong>! Beginnend mit persönlcih angepassten E-Mail Signaturen bis zum Farb- und Schriftdesign kümmern wir uns um Ihre <strong class="text-primary">Firmenidentität</strong>.</p>
+            <a class="btn btn-sm btn-outline-primary" href="<?php echo $websiteUrl."design/"; ?>">
+              <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
+            </a>
+          </div>
+        </div>
+        <!-- End - Corporate Design -->
+
+        <hr class="my-8">
+
+        <!-- Video -->
+        <div style="overflow-x: hidden" class="row">
+          <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
+            <h3 class="h4 text-uppercase mb-3">Werbevideos</h3>
+            <p class="mb-5">Egal ob ein kurzer <strong class="text-primary">cinematischer Trailer, Interviews oder Kurzvideos</strong> für den Social Media Kanal, mit der geeigneten Ausrüstung und Expertise sind wir auch in diesem Bereich vertreten.</p>
+            <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."video/"; ?>">
+              <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
+            </a>
+          </div>
+
+          <div class="col-lg-5 order-first order-lg-last mb-4 mb-lg-0" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
+            <img class="img-fluid" src="assets/img/backgrounds/video.png" alt="Werbevideos" loading="lazy">
+          </div>
+        </div>
+        <!-- End - Video -->
+
+        <hr class="my-8">
+
+        <div class="row">
+          <div class="col-md-4 mb-3 mb-md-0">
+            <h3 class="h5 font-weight-normal"><i class="fas fa-users text-primary mr-2"></i> Teamwork</h3>
+            <p>Makes the Dreamwork, wir setzen auf qualitative Zusammenarbeit.</p>
+          </div>
+          <div class="col-md-4 mb-3 mb-md-0">
+            <h3 class="h5 font-weight-normal"><i class="fas fa-tools text-primary mr-2"></i> Technik</h3>
+            <p>Mit den neuesten und renommiertesten Programmen zum Erfolg.</p>
+          </div>
+          <div class="col-md-4">
+            <h3 class="h5 font-weight-normal"><i class="fas fa-layer-group text-primary mr-2"></i> Workflows</h3>
+            <p>Durch ausgeklügelte Arbeitsabläufe erarbeiten wir einen hohen Standard.</p>
           </div>
         </div>
       </div>
-    </div>
+    </section>
+    <!-- End - Presentation -->
+
+    <!-- Our team 
+    <section id="our-team" class="bg-primary-light py-11">
+      <div class="container">
+        <div class="w-md-75 w-lg-50 mx-auto text-center mb-9">
+          <h2 class="h3 text-center text-uppercase">Sie werden betreut von</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper diam vel tempus dignissim</p>
+        </div>
+
+        <div style="overflow-x: hidden" class="row">
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
+            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
+            <h4 class="text-uppercase mb-0">Name</h4>
+            <p class="text-uppercase">Fondateur</p>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
+            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
+            <h4 class="text-uppercase mb-0">Name</h4>
+            <p class="text-uppercase">Developer</p>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
+            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
+            <h4 class="text-uppercase mb-0">Name</h4>
+            <p class="text-uppercase">Graphic designer</p>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
+            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
+            <h4 class="text-uppercase mb-0">Name</h4>
+            <p class="text-uppercase">Administrator</p>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5 mb-md-0" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
+            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
+            <h4 class="text-uppercase mb-0">Name</h4>
+            <p class="text-uppercase">Moderator</p>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5 mb-md-0" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
+            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
+            <h4 class="text-uppercase mb-0">Name</h4>
+            <p class="text-uppercase">Support</p>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5 mb-md-0" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
+            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
+            <h4 class="text-uppercase mb-0">Name</h4>
+            <p class="text-uppercase">Support</p>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3 text-center mb-5 mb-md-0" data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom">
+            <img class="img-fluid shadow rounded-circle mb-4" src="assets/img/avatars/user-unknown.jpg" alt="Name user" loading="lazy">
+            <h4 class="text-uppercase mb-0">Name</h4>
+            <p class="text-uppercase">Support</p>
+          </div>
+      </div>
+    </section>
+     End - Our team -->
+
+    <!-- Portfolio -->
+    <section id="portfolio" class="bg-light py-11">
+      <div class="container">
+        <div class="w-md-75 w-lg-50 mx-auto text-center mb-9">
+          <h2 class="h3 text-center text-uppercase">Portfolio</h2>
+          <p>Fiktive Projekte als Veranschaulichung.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-12 col-sm-6 col-md-4 text-center mb-5" data-aos="zoom-in-down" data-aos-anchor-placement="bottom-bottom">
+            <a href="assets/img/portfolio/restaurant_1.png" data-lightbox="roadtrip" data-title="Restaurant">
+              <img class="picture-gallery img-fluid shadow rounded" src="assets/img/portfolio/restaurant_1.png" alt="Restaurant" loading="lazy">
+            </a>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 text-center mb-5" data-aos="zoom-in-down" data-aos-anchor-placement="bottom-bottom">
+            <a href="assets/img/portfolio/can_1.png" data-lightbox="roadtrip" data-title="Dose">
+              <img class="picture-gallery img-fluid shadow rounded" src="assets/img/portfolio/can_1.png" alt="Dose" loading="lazy">
+            </a>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 text-center mb-5" data-aos="zoom-in-down" data-aos-anchor-placement="bottom-bottom">
+            <a href="assets/img/portfolio/sign_1.png" data-lightbox="roadtrip" data-title="Schild">
+              <img class="picture-gallery img-fluid shadow rounded" src="assets/img/portfolio/sign_1.png" alt="Schild" loading="lazy">
+            </a>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 text-center mb-5" data-aos="zoom-in-down" data-aos-anchor-placement="bottom-bottom">
+            <a href="assets/img/portfolio/pickup_1.png" data-lightbox="roadtrip" data-title="Pickup">
+              <img class="picture-gallery img-fluid shadow rounded" src="assets/img/portfolio/pickup_1.png" alt="Pickup" loading="lazy">
+            </a>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 text-center mb-5" data-aos="zoom-in-down" data-aos-anchor-placement="bottom-bottom">
+            <a href="assets/img/portfolio/sign_2.png" data-lightbox="roadtrip" data-title="Werbeschild">
+              <img class="picture-gallery img-fluid shadow rounded" src="assets/img/portfolio/sign_2.png" alt="Werbeschild" loading="lazy">
+            </a>
+          </div>
+          <div class="col-12 col-sm-6 col-md-4 text-center mb-5" data-aos="zoom-in-down" data-aos-anchor-placement="bottom-bottom">
+            <a href="assets/img/portfolio/tabletent_1.png" data-lightbox="roadtrip" data-title="Tischzelt">
+              <img class="picture-gallery img-fluid shadow rounded" src="assets/img/portfolio/tabletent_1.png" alt="Tischzelt" loading="lazy">
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End - Gallery -->
+
+    <!-- Footer -->
+    <?php require_once('include/footer.php'); ?>
+    <!-- End - Footer -->
   </main>
+
 
   <!-- Footer -->
   <?php require_once('include/footer.php'); ?>

@@ -88,65 +88,6 @@
   <!-- End - Promo Section -->
 
   <main class="bg-light">
-    <!-- Values -->
-    <section id="values" class="bg-dark position-relative py-11">
-      <div class="container">
-        <div class="w-md-75 w-lg-50 text-center mx-auto mb-6">
-          <h2 class="text-light text-center mb-0">Unsere Werte</h2>
-          <p class="text-grey mb-0">und was uns ausmacht!</p>
-        </div>
-
-        <div class="row position-relative z-index-1">
-          <div class="col-md-6 mb-5" data-aos="flip-left">
-            <div class="media h-100 bg-light shadow-custom rounded p-4">
-              <i class="far fa-fw fa-dot-circle fa-3x text-warning mr-4 mt-1"></i>
-
-              <div class="media-body">
-                <h5 class="text-uppercase mb-1">Effizent</h5>
-                <p class="mb-0">Keine unnötogen Wartezeiten.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 mb-5" data-aos="flip-right">
-            <div class="media h-100 bg-light shadow-custom rounded p-4">
-              <i class="far fa-fw fa-dot-circle fa-3x text-info mr-4 mt-1"></i>
-
-              <div class="media-body">
-                <h5 class="text-uppercase mb-1">Persönlich</h5>
-                <p class="mb-0">Wir wollen dass das Ergebnis zu Ihnen passt.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 mb-5" data-aos="flip-left">
-            <div class="media h-100 bg-light shadow-custom rounded p-4">
-              <i class="far fa-fw fa-dot-circle fa-3x text-secondary mr-4 mt-1"></i>
-
-              <div class="media-body">
-                <h5 class="text-uppercase mb-1">Fair</h5>
-                <p class="mb-0">Vom den Arbeitsabläufen bis zum Preis.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 mb-5" data-aos="flip-right">
-            <div class="media h-100 bg-light shadow-custom rounded p-4">
-              <i class="far fa-fw fa-dot-circle fa-3x text-danger mr-4 mt-1"></i>
-
-              <div class="media-body">
-                <h5 class="text-uppercase mb-1">Innovativ</h5>
-                <p class="mb-0">Statt 08/15.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <svg class="position-absolute bottom-0 left-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 300">
-          <path id="Path_11" fill="#f8fafd" data-name="Path 1" d="M0,1081.586H1920v-300Z" transform="translate(0 -781.586)"></path>
-        </svg>
-      </div>
-    </section>
 
     <section class="bg-light py-11">
       <div class="container">
@@ -202,8 +143,6 @@
           </div>
         </div>
         <!-- End - Video -->
-
-        <hr class="my-8">
     </section>
     <!-- End - Presentation -->
 

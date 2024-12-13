@@ -72,7 +72,7 @@
     <div class="container duik-promo-container">
       <div class="d-flex justify-content-center position-relative mh-25rem pt-11 py-6">
         <div class="align-self-center w-md-75">
-          <h1 class="animate__animated animate__fadeInUp text-white text-uppercase">Design</h1>
+          <h1 class="animate__animated animate__fadeInUp text-white text-uppercase">Fotografie</h1>
           <p class="text-light mb-0">Finde alles über unsere Services für Fotografie heraus.</p>
         </div>
       </div>

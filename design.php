@@ -21,7 +21,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="assets/img/favicon.png">
+  <link rel="shortcut icon" href="../assets/img/favicon.png">
 
   <!--  Meta tags -->
   <meta name="keywords" content="<?php echo $info_website_keywords; ?>">

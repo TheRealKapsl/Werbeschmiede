@@ -68,7 +68,7 @@
   <!-- End - Header -->
 
   <!-- Promo Section -->
-  <section class="duik-promo gradient-primary text-center">
+  <section style="background: url(../assets/img/backgrounds/design.png) no-repeat center; background-size: cover;" class="duik-promo gradient-primary text-center">
     <div class="container duik-promo-container">
       <div class="d-flex justify-content-center position-relative mh-25rem pt-11 py-6">
         <div class="align-self-center w-md-75">

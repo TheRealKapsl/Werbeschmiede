@@ -91,36 +91,37 @@
 
     <section class="bg-light py-11">
       <div class="container">
-        <!-- Social Media Marketing -->
+        <!-- Logo Design -->
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
-            <h3 class="h4 text-uppercase mb-2">Social Media Marketing</h3>
-            <p>Mittlerweile betreuen wir multible Social Media Kanäle mit einer <strong class="text-primary">stätig wachsenden Reichweite</strong> und mehrere <strong class="text-primary">Tausden Follower</strong>.</p>
-            <p class="mb-5">Wir erschaffen gemeinsam mit Ihnen ein <strong class="text-primary">maßgeschniedertes Marketingkonzept</strong> welches genau für Ihr Unternehmen und Projekt geeignet ist und passen dies laufend an.</p>
-            <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."socialmedia/"; ?>">
-              <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
+            <h3 class="h4 text-uppercase mb-2">Logo</h3>
+            <p>Der erste Schritt zur <strong class="text-primary">Wiedererkennung</strong> ist das <strong class="text-primary">Logo</strong>.</p>
+            <p class="mb-5">Wir bieten neben der Hilfestellung bei der Ideenfindung und den ersten Skitzzen einen strukturierten Weg zum Erfolg.</p>
+            <a class="btn btn-sm btn-primary" href="mailto:office@werbeschmiede.eu?subject=Anfrage%20-%20Logo&body=Hallo!%0D%0A%0D%0AWir%20m%C3%B6chten%20bitte%20ein%20Angebot%20zum%20Logo%20Design%20erhalten!%0D%0A%0D%0AHier%20ein%20paar%20Infos%20zum%20Projekt%3A%0D%0A%0D%0AUnd%20hier%20sind%20wir%20am%20besten%20zu%20erreichen%3A%0D%0A%0D%0ALiebe%20Gr%C3%BC%C3%9Fe!";">
+              <i class="fas fa-envelope mr-1"></i> Angebot Einholen
             </a>
           </div>
 
           <div class="col-lg-5 order-first order-lg-last mb-4 mb-lg-0" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
-            <img class="img-fluid" src="assets/img/backgrounds/socialmedia.png" alt="Social Media Marketing" loading="lazy">
+            <img class="img-fluid" src="../assets/img/backgrounds/logo.png" alt="Logo Design" loading="lazy">
           </div>
         </div>
-        <!-- End - Social Media Marketing -->
+        <!-- End - Logo Design -->
 
         <hr class="my-8">
 
         <!-- Corporate Design -->
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-5 mb-4 mb-lg-0" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
-            <img class="img-fluid" src="assets/img/backgrounds/corporatedesign.png" alt="Corporate Design" loading="lazy">
+            <img class="img-fluid" src="../assets/img/backgrounds/corporatedesign.png" alt="Corporate Design" loading="lazy">
           </div>
 
           <div class="col-lg-7 align-self-center pl-lg-5">
             <h3 class="h4 text-uppercase mb-2">Corporate Design</h3>
-            <p class="mb-5">Wir schaffen <strong class="text-primary">Wiedererkennungswerte</strong>! Beginnend mit persönlcih angepassten E-Mail Signaturen bis zum Farb- und Schriftdesign kümmern wir uns um Ihre <strong class="text-primary">Firmenidentität</strong>.</p>
-            <a class="btn btn-sm btn-outline-primary" href="<?php echo $websiteUrl."design/"; ?>">
-              <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
+            <p>Farbschema, Druckformate und Signaturen sind ein paar Beispiele aus den Auswahlmöglichkeiten welche individuell zusammengestellt werden können.</p>
+            <p class="mb-5">Natürlich bieten wir auch empfohlene Pakete an.</p>
+            <a class="btn btn-sm btn-outline-primary" href="mailto:office@werbeschmiede.eu?subject=Anfrage%20-%20Corporate%20Design&body=Hallo!%0D%0A%0D%0AWir%20m%C3%B6chten%20bitte%20ein%20Angebot%20zum%20Corporate%20Design%20erhalten!%0D%0A%0D%0AHier%20ein%20paar%20Infos%20zum%20Projekt%3A%0D%0A%0D%0AUnd%20hier%20sind%20wir%20am%20besten%20zu%20erreichen%3A%0D%0A%0D%0ALiebe%20Gr%C3%BC%C3%9Fe!">
+              <i class="fas fa-envelope mr-1"></i> Angebot Einholen
             </a>
           </div>
         </div>
@@ -128,21 +129,39 @@
 
         <hr class="my-8">
 
-        <!-- Video -->
+        <!-- Corporate Identity -->
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
-            <h3 class="h4 text-uppercase mb-3">Werbevideos</h3>
-            <p class="mb-5">Egal ob ein kurzer <strong class="text-primary">cinematischer Trailer, Interviews oder Kurzvideos</strong> für den Social Media Kanal, mit der geeigneten Ausrüstung und Expertise sind wir auch in diesem Bereich vertreten.</p>
-            <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."video/"; ?>">
-              <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
+            <h3 class="h4 text-uppercase mb-3">Corporate Identity</h3>
+            <p class="mb-5">Während sich ein Corporate Design primär Formatierungen behandelt, geht es bei einer Corporate Identity um einen ausführlichen Steckbrief, das Design wird mit emotionen und Werten verbunden und präsentiert.</p>
+            <a class="btn btn-sm btn-primary" href="mailto:office@werbeschmiede.eu?subject=Anfrage%20-%20Corporate%20Identity&body=Hallo!%0D%0A%0D%0AWir%20m%C3%B6chten%20bitte%20ein%20Angebot%20zum%20Corporate%20Identity%20erhalten!%0D%0A%0D%0AHier%20ein%20paar%20Infos%20zum%20Projekt%3A%0D%0A%0D%0AUnd%20hier%20sind%20wir%20am%20besten%20zu%20erreichen%3A%0D%0A%0D%0ALiebe%20Gr%C3%BC%C3%9Fe!">
+              <i class="fas fa-envelope mr-1"></i> Angebot Einholen
             </a>
           </div>
 
           <div class="col-lg-5 order-first order-lg-last mb-4 mb-lg-0" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
-            <img class="img-fluid" src="assets/img/backgrounds/video.png" alt="Werbevideos" loading="lazy">
+            <img class="img-fluid" src="../assets/img/backgrounds/corporateidentity.png" alt="Corporate Identity" loading="lazy">
           </div>
         </div>
-        <!-- End - Video -->
+        <!-- End - Corporate Identity -->
+
+        <hr class="my-8">
+
+        <!-- Advertisment Design -->
+        <div style="overflow-x: hidden" class="row">
+          <div class="col-lg-5 mb-4 mb-lg-0" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
+            <img class="img-fluid" src="assets/img/backgrounds/addesign.png" alt="Advertisment Design" loading="lazy">
+          </div>
+
+          <div class="col-lg-7 align-self-center pl-lg-5">
+            <h3 class="h4 text-uppercase mb-2">Advertisment Design</h3>
+            <p class="mb-5"></p>
+            <a class="btn btn-sm btn-outline-primary" href="<?php echo $websiteUrl."design/"; ?>">
+              <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
+            </a>
+          </div>
+        </div>
+        <!-- End - Advertisment Design -->
     </section>
     <!-- End - Presentation -->
 

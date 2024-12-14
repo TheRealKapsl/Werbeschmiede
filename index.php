@@ -189,8 +189,8 @@
               <i class="far fa-fw fa-dot-circle fa-3x text-warning mr-4 mt-1"></i>
 
               <div class="media-body">
-                <h5 class="text-uppercase mb-1">Effizent</h5>
-                <p class="mb-0">Keine unnötogen Wartezeiten.</p>
+                <h5 class="text-uppercase mb-1">Effizient</h5>
+                <p class="mb-0">Keine unnötigen Wartezeiten.</p>
               </div>
             </div>
           </div>
@@ -212,7 +212,7 @@
 
               <div class="media-body">
                 <h5 class="text-uppercase mb-1">Fair</h5>
-                <p class="mb-0">Vom den Arbeitsabläufen bis zum Preis.</p>
+                <p class="mb-0">Von den Arbeitsabläufen bis zum Preis.</p>
               </div>
             </div>
           </div>
@@ -223,7 +223,7 @@
 
               <div class="media-body">
                 <h5 class="text-uppercase mb-1">Innovativ</h5>
-                <p class="mb-0">Statt 08/15.</p>
+                <p class="mb-0">Statt veraltet und langweilig.</p>
               </div>
             </div>
           </div>
@@ -241,8 +241,8 @@
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
             <h3 class="h4 text-uppercase mb-2">Social Media Marketing</h3>
-            <p>Mittlerweile betreuen wir multible Social Media Kanäle mit einer <strong class="text-primary">stätig wachsenden Reichweite</strong> und mehrere <strong class="text-primary">Tausden Follower</strong>.</p>
-            <p class="mb-5">Wir erschaffen gemeinsam mit Ihnen ein <strong class="text-primary">maßgeschniedertes Marketingkonzept</strong> welches genau für Ihr Unternehmen und Projekt geeignet ist und passen dies laufend an.</p>
+            <p>Mittlerweile betreuen wir multiple Social-Media-Kanäle mit einer <strong class="text-primary">stetig wachsenden Reichweite</strong> und mehrere <strong class="text-primary">Tausend Follower</strong>.</p>
+            <p class="mb-5">Wir erschaffen gemeinsam mit Ihnen ein <strong class="text-primary">maßgeschneidertes Marketingkonzept</strong> welches genau für Ihr Unternehmen und Projekt geeignet ist und passen dies laufend an.</p>
             <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."socialmedia/"; ?>">
               <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
             </a>
@@ -259,12 +259,12 @@
         <!-- Corporate Design -->
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-5 mb-4 mb-lg-0" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
-            <img class="img-fluid" src="assets/img/backgrounds/corporatedesign.png" alt="Corporate Design" loading="lazy">
+            <img class="img-fluid" src="assets/img/backgrounds/corporatedesign.png" alt="Corporate Design"< loading="lazy">
           </div>
 
           <div class="col-lg-7 align-self-center pl-lg-5">
             <h3 class="h4 text-uppercase mb-2">Corporate Design</h3>
-            <p class="mb-5">Wir schaffen <strong class="text-primary">Wiedererkennungswerte</strong>! Beginnend mit persönlcih angepassten E-Mail Signaturen bis zum Farb- und Schriftdesign kümmern wir uns um Ihre <strong class="text-primary">Firmenidentität</strong>.</p>
+            <p class="mb-5">Wir schaffen <strong class="text-primary">Wiedererkennungswerte</strong>! Beginnend mit persönlich angepassten E-Mail Signaturen bis zum Farb- und Schriftdesign kümmern wir uns um Ihre <strong class="text-primary">Firmenidentität</strong>.</p>
             <a class="btn btn-sm btn-outline-primary" href="<?php echo $websiteUrl."design/"; ?>">
               <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
             </a>
@@ -278,7 +278,7 @@
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
             <h3 class="h4 text-uppercase mb-3">Werbevideos</h3>
-            <p class="mb-5">Egal ob ein kurzer <strong class="text-primary">cinematischer Trailer, Interviews oder Kurzvideos</strong> für den Social Media Kanal, mit der geeigneten Ausrüstung und Expertise sind wir auch in diesem Bereich vertreten.</p>
+            <p class="mb-5">Egal, ob ein kurzer <strong class="text-primary">cinematischer Trailer, Interviews oder Kurzvideos</strong> für den Social-Media-Kanal, mit der geeigneten Ausrüstung und Expertise sind wir auch in diesem Bereich vertreten.</p>
             <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."video/"; ?>">
               <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
             </a>

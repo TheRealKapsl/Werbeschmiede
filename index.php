@@ -147,7 +147,7 @@
             <img class="img-fluid mb-5" src="assets/img/icon_design.png" alt="Fesign Icon" loading="lazy">
 
             <h4 class="h5 mb-2">Design</h4>
-            <p class="mb-5">Werbemittel, Logos, Speisekarten und viel mehr.</p>
+            <p class="mb-5">Kreative Ideen für Print und Online.</p>
             <a class="btn btn-sm btn-primary text-uppercase stretched-link mb-0" href="<?php echo $websiteUrl."design/"; ?>"><i class="fas fa-info-circle mr-1"></i> Mehr Informationen</a>
           </div>
         </div>
@@ -156,7 +156,7 @@
             <img class="img-fluid mb-5" src="assets/img/icon_webdev.png" alt="Website Icon" loading="lazy">
 
             <h4 class="h5 mb-2">Website</h4>
-            <p class="mb-5">Digitales Ladenschild mit umfangreichen Möglichkeiten.</p>
+            <p class="mb-5">Benutzerfreundlich und professionell.</p>
             <a class="btn btn-sm btn-primary text-uppercase stretched-link mb-0" href="<?php echo $websiteUrl."website/"; ?>"><i class="fas fa-info-circle mr-1"></i> Mehr Informationen</a>
           </div>
         </div>
@@ -165,7 +165,7 @@
             <img class="img-fluid mb-5" src="assets/img/icon_camera.png" alt="Camera Icon" loading="lazy">
 
             <h4 class="h5 mb-2">Fotografie</h4>
-            <p class="mb-5">Ihr Unternehmen im besten Licht und im Fokus.</p>
+            <p class="mb-5">Prefekt in Szene.</p>
             <a class="btn btn-sm btn-primary text-uppercase stretched-link mb-0" href="<?php echo $websiteUrl."photography/"; ?>"><i class="fas fa-info-circle mr-1"></i> Mehr Informationen</a>
           </div>
         </div>
@@ -190,7 +190,7 @@
 
               <div class="media-body">
                 <h5 class="text-uppercase mb-1">Effizient</h5>
-                <p class="mb-0">Keine unnötigen Wartezeiten.</p>
+                <p class="mb-0">Schnelle und zielgerichtete Lösungen.</p>
               </div>
             </div>
           </div>
@@ -201,7 +201,7 @@
 
               <div class="media-body">
                 <h5 class="text-uppercase mb-1">Persönlich</h5>
-                <p class="mb-0">Wir wollen dass das Ergebnis zu Ihnen passt.</p>
+                <p class="mb-0">Wir nehmen uns Zeit für individuelle Beratung.</p>
               </div>
             </div>
           </div>
@@ -212,7 +212,7 @@
 
               <div class="media-body">
                 <h5 class="text-uppercase mb-1">Fair</h5>
-                <p class="mb-0">Von den Arbeitsabläufen bis zum Preis.</p>
+                <p class="mb-0">Transparente Preise und klare Kommunikation.</p>
               </div>
             </div>
           </div>
@@ -223,7 +223,7 @@
 
               <div class="media-body">
                 <h5 class="text-uppercase mb-1">Innovativ</h5>
-                <p class="mb-0">Statt veraltet und langweilig.</p>
+                <p class="mb-0">Wir denken kreativ für frische und moderne Lösungen.</p>
               </div>
             </div>
           </div>
@@ -241,8 +241,9 @@
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
             <h3 class="h4 text-uppercase mb-2">Social Media Marketing</h3>
-            <p>Mittlerweile betreuen wir multiple Social-Media-Kanäle mit einer <strong class="text-primary">stetig wachsenden Reichweite</strong> und mehrere <strong class="text-primary">Tausend Follower</strong>.</p>
-            <p class="mb-5">Wir erschaffen gemeinsam mit Ihnen ein <strong class="text-primary">maßgeschneidertes Marketingkonzept</strong> welches genau für Ihr Unternehmen und Projekt geeignet ist und passen dies laufend an.</p>
+            <p>Erreiche deine Zielgruppe dort, wo sie aktiv ist - auf<strong class="text-primary">Social Media</strong>!</p>
+            <p class="mb-5">Mit maßgeschneiderten <strong class="text-primary">Strategien</strong> und laufender Optimierung bringen wir dein Unternehmen in den Fokus. Ob class="text-primary">Facebook, Instagram, Youtube</strong> oder class="text-primary">LinkedIn</strong> - wir bauen <strong class="text-primary">Reichweite</strong> auf, steigern die class="text-primary">Interaktion</strong> und sorgen für messbare Erfolge. Vertraue auf class="text-primary">kreative Konzepte</strong> und class="text-primary">datenbasierte Entscheidugnen</strong>, die eine <strong class="text-primary">Community</strong> entstehen und wachsen lassen.</p>
+            <p class="mb-5">Jetzt anfragen und gemeinsam dein Unternehmen auf das nächste Level bringen!</p>
             <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."socialmedia/"; ?>">
               <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
             </a>

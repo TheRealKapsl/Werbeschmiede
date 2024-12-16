@@ -242,7 +242,7 @@
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
             <h3 class="h4 text-uppercase mb-2">Social Media Marketing</h3>
             <p>Erreiche deine Zielgruppe dort, wo sie aktiv ist - auf <strong class="text-primary">Social Media</strong>!</p>
-            <p class="mb-5">Mit maßgeschneiderten <strong class="text-primary">Strategien</strong> und laufender Optimierung bringen wir dein Unternehmen in den Fokus. Ob <strong class="text-primary">Facebook, Instagram, Youtube</strong> oder <class="text-primary">LinkedIn</strong> - wir bauen <strong class="text-primary">Reichweite</strong> auf, steigern die <strong class="text-primary">Interaktion</strong> und sorgen für messbare Erfolge. Vertraue auf <strong class="text-primary">kreative Konzepte</strong> und <strong class="text-primary">datenbasierte Entscheidugnen</strong>, die eine <strong class="text-primary">Community</strong> entstehen und wachsen lassen.</p>
+            <p class="mb-5">Mit maßgeschneiderten Strategien und laufender Optimierung bringen wir dein Unternehmen in den Fokus. Ob <strong class="text-primary">Facebook, Instagram, Youtube</strong> oder <strong class="text-primary">LinkedIn</strong> - wir bauen Reichweite auf, steigern die Interaktion und sorgen für messbare Erfolge. Vertraue auf <strong class="text-primary">kreative Konzepte</strong> und datenbasierte Entscheidugnen, die eine Community entstehen und wachsen lassen.</p>
             <p class="mb-5">Jetzt anfragen und gemeinsam dein Unternehmen auf das nächste Level bringen!</p>
             <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."socialmedia/"; ?>">
               <i class="fas fa-info-circle mr-1"></i> Mehr Informationen

@@ -242,7 +242,7 @@
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
             <h3 class="h4 text-uppercase mb-2">Social Media Marketing</h3>
             <p>Erreiche deine Zielgruppe dort, wo sie aktiv ist - auf <strong class="text-primary">Social Media</strong>!</p>
-            <p class="mb-5">Mit maßgeschneiderten Strategien und laufender Optimierung bringen wir dein Unternehmen in den Fokus. Ob <strong class="text-primary">Facebook, Instagram, Youtube</strong> oder <strong class="text-primary">LinkedIn</strong> - wir bauen Reichweite auf, steigern die Interaktion und sorgen für messbare Erfolge. Vertraue auf <strong class="text-primary">kreative Konzepte</strong> und datenbasierte Entscheidugnen, die eine Community entstehen und wachsen lassen.</p>
+            <p class="mb-5">Mit maßgeschneiderten Strategien und laufender Optimierung bringen wir dein Unternehmen in den Fokus. Ob <strong class="text-primary">Facebook, Instagram, Youtube</strong> oder <strong class="text-primary">LinkedIn</strong> - wir bauen Reichweite auf, steigern die Interaktion und sorgen für messbare Erfolge. Vertraue auf <strong class="text-primary">kreative Konzepte</strong> und datenbasierte Entscheidungen, die eine Community entstehen und wachsen lassen.</p>
             <p class="mb-5">Jetzt anfragen und gemeinsam dein Unternehmen auf das nächste Level bringen!</p>
             <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."socialmedia/"; ?>">
               <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
@@ -257,29 +257,33 @@
 
         <hr class="my-8">
 
-        <!-- Corporate Design -->
+        <!-- Corporate Design & Identity -->
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-5 mb-4 mb-lg-0" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
             <img class="img-fluid" src="assets/img/backgrounds/corporatedesign.png" alt="Corporate Design"< loading="lazy">
           </div>
 
           <div class="col-lg-7 align-self-center pl-lg-5">
-            <h3 class="h4 text-uppercase mb-2">Corporate Design</h3>
-            <p class="mb-5">Wir schaffen <strong class="text-primary">Wiedererkennungswerte</strong>! Beginnend mit persönlich angepassten E-Mail Signaturen bis zum Farb- und Schriftdesign kümmern wir uns um Ihre <strong class="text-primary">Firmenidentität</strong>.</p>
+            <h3 class="h4 text-uppercase mb-2">Corporate Design & Identity</h3>
+            <p>Wir gestalten <strong class="text-primary">Wiedererkennungswerte</strong>, die begeistern!</p>
+            <p class="mb-5">Von <strong class="text-primary">individuell</strong> angepassten E-Mail-Signaturen bis hin zu einem einheitlichen Farb- und Schriftdesign - wir kümmern uns um deine visuelle <strong class="text-primary">Firmenidentität</strong>. Mit Liebe zum <strong class="text-primary">Detail</strong> und einem klaren Fokus auf Konsistenz sorgen wir dafür, dass dein Projekt in jedem Medium class="text-primary">überzeugend</strong> auftritt.
+            
             <a class="btn btn-sm btn-outline-primary" href="<?php echo $websiteUrl."design/"; ?>">
               <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
             </a>
           </div>
         </div>
-        <!-- End - Corporate Design -->
+        <!-- End - Corporate Design & Identity -->
 
         <hr class="my-8">
 
-        <!-- Video -->
+        <!-- Werbevideos -->
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
             <h3 class="h4 text-uppercase mb-3">Werbevideos</h3>
-            <p class="mb-5">Egal, ob ein kurzer <strong class="text-primary">cinematischer Trailer, Interviews oder Kurzvideos</strong> für den Social-Media-Kanal, mit der geeigneten Ausrüstung und Expertise sind wir auch in diesem Bereich vertreten.</p>
+            <p>Wir bringen deine <strong class="text-primary">Botschaft</strong> ins Rampenlicht!</p>
+            <p class="mb-5">Mit <strong class="text-primary">kreativen Konzepten</strong> und <strong class="text-primary">moderner Videotechnik</strong> erstellen wir <strong class="text-primary">Werbevideos</strong>, die begeistern und in Erinnerung bleiben. Ob <strong class="text-primary">Produktpräsentationen, Imagefilme</strong> oder <strong class="text-primary">Social-Media-Clips</strong> – wir sorgen dafür, dass dein Projekt visuell <strong class="text-primary">überzeugt</strong> und emotional <strong class="text-primary">berührt</strong>.</p>
+            
             <a class="btn btn-sm btn-primary" href="<?php echo $websiteUrl."video/"; ?>">
               <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
             </a>

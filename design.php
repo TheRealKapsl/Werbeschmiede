@@ -94,9 +94,10 @@
         <!-- Logo Design -->
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
-            <h3 class="h4 text-uppercase mb-2">Logo</h3>
-            <p>Der erste Schritt zur <strong class="text-primary">Wiedererkennung</strong> ist das <strong class="text-primary">Logo</strong>.</p>
-            <p class="mb-5">Wir bieten neben der Hilfestellung bei der Ideenfindung und den ersten Skitzzen einen strukturierten Weg zum Erfolg.</p>
+            <h3 class="h4 text-uppercase mb-2">Logo Design</h3>
+            <p>Das Gesicht eines Unternehmens - wir sorgen dafür, dass es unverwechselbar ist!</p>
+            <p class="mb-5">Mit kreativer <strong class="text-primary">Expertise</strong> und einem klaren Gespür für <strong class="text-primary">Trends</strong>gestalten wir Logos, die <strong class="text-primary"></strong>Werte und Visionenauf den Punkt bringen. Ob <strong class="text-primary">modern, klassisch</strong> oder <strong class="text-primary">außergewöhnlich</strong> – wir schaffen Designs, die im Gedächtnis bleiben und dein Unternehmen repräsentieren.</p>
+            <p class="mb-5">Vertrau uns, dein Markenzeichen <strong class="text-primary">einzigartig</strong> zu machen.</p>
             <a class="btn btn-sm btn-primary" href="mailto:office@werbeschmiede.eu?subject=Anfrage%20-%20Logo&body=Hallo!%0D%0A%0D%0AWir%20m%C3%B6chten%20bitte%20ein%20Angebot%20zum%20Logo%20Design%20erhalten!%0D%0A%0D%0AHier%20ein%20paar%20Infos%20zum%20Projekt%3A%0D%0A%0D%0AUnd%20hier%20sind%20wir%20am%20besten%20zu%20erreichen%3A%0D%0A%0D%0ALiebe%20Gr%C3%BC%C3%9Fe!";">
               <i class="fas fa-envelope mr-1"></i> Angebot Einholen
             </a>
@@ -115,11 +116,11 @@
           <div class="col-lg-5 mb-4 mb-lg-0" data-aos="fade-left" data-aos-offset="300" data-aos-easing="ease-in-sine">
             <img class="img-fluid" src="../assets/img/backgrounds/corporatedesign.png" alt="Corporate Design" loading="lazy">
           </div>
-
+ 
           <div class="col-lg-7 align-self-center pl-lg-5">
             <h3 class="h4 text-uppercase mb-2">Corporate Design</h3>
-            <p>Farbschema, Druckformate und Signaturen sind ein paar Beispiele aus den Auswahlmöglichkeiten welche individuell zusammengestellt werden können.</p>
-            <p class="mb-5">Natürlich bieten wir auch empfohlene Pakete an.</p>
+            <p>Ein <strong class="text-primary">Glow-Up</strong> für dein Unternehmen.</p>
+            <p class="mb-5">Ein <strong class="text-primary">einheitliches Erscheinungsbild</strong> ist der Schlüssel zu einem starken <strong class="text-primary">Markenauftritt</strong>. Wir entwickeln ein <strong class="text-primary">Corporate Design</strong>, das dein Projekt visuell <strong class="text-primary">erlebbar</strong> macht - von <strong class="text-primary">Farben</strong> und <strong class="text-primary">Schriften</strong> bis zu individuell gestalteten <strong class="text-primary">E-Mail-Signaturen</strong>. Mit kreativen Ideen und einem Auge für Details schaffen wir <strong class="text-primary">Wiedererkennungswerte</strong>, die deine <strong class="text-primary">Zielgruppe begeistern</strong> und dein Unternehmen <strong class="text-primary">professionell präsentieren</strong>.</p>
             <a class="btn btn-sm btn-outline-primary" href="mailto:office@werbeschmiede.eu?subject=Anfrage%20-%20Corporate%20Design&body=Hallo!%0D%0A%0D%0AWir%20m%C3%B6chten%20bitte%20ein%20Angebot%20zum%20Corporate%20Design%20erhalten!%0D%0A%0D%0AHier%20ein%20paar%20Infos%20zum%20Projekt%3A%0D%0A%0D%0AUnd%20hier%20sind%20wir%20am%20besten%20zu%20erreichen%3A%0D%0A%0D%0ALiebe%20Gr%C3%BC%C3%9Fe!">
               <i class="fas fa-envelope mr-1"></i> Angebot Einholen
             </a>
@@ -133,7 +134,9 @@
         <div style="overflow-x: hidden" class="row">
           <div class="col-lg-7 align-self-center pr-lg-5 mb-5 mb-lg-0">
             <h3 class="h4 text-uppercase mb-3">Corporate Identity</h3>
-            <p class="mb-5">Während sich ein Corporate Design primär Formatierungen behandelt, geht es bei einer Corporate Identity um einen ausführlichen Steckbrief, das Design wird mit emotionen und Werten verbunden und präsentiert.</p>
+            <p>Dein Unternehmen ist <strong class="text-primary">einzigartig</strong> - und genau das sollte man sehen.</p>
+            <p class="mb-5">Gemeinsam entwickeln wir eine <strong class="text-primary">Corporate Identity</strong>, die genau zu dir passt. Vom <strong class="text-primary">Look & Feel</strong> über den <strong class="text-primary">Ton</strong> deiner Marke bis hin zu <strong class="text-primary">einheitlichen Designs</strong> sorgen wir dafür, dass dein Auftritt <strong class="text-primary">echt, stimmig</strong> und <strong class="text-primary">unvergesslich</strong> wird.</p>
+            <p>So weiß jeder <strong class="text-primary">sofort</strong>, wofür du stehst!</p>
             <a class="btn btn-sm btn-primary" href="mailto:office@werbeschmiede.eu?subject=Anfrage%20-%20Corporate%20Identity&body=Hallo!%0D%0A%0D%0AWir%20m%C3%B6chten%20bitte%20ein%20Angebot%20zum%20Corporate%20Identity%20erhalten!%0D%0A%0D%0AHier%20ein%20paar%20Infos%20zum%20Projekt%3A%0D%0A%0D%0AUnd%20hier%20sind%20wir%20am%20besten%20zu%20erreichen%3A%0D%0A%0D%0ALiebe%20Gr%C3%BC%C3%9Fe!">
               <i class="fas fa-envelope mr-1"></i> Angebot Einholen
             </a>
@@ -154,10 +157,12 @@
           </div>
 
           <div class="col-lg-7 align-self-center pl-lg-5">
-            <h3 class="h4 text-uppercase mb-2">Advertisment Design</h3>
-            <p class="mb-5"></p>
+            <h3 class="h4 text-uppercase mb-2">Werbedesign</h3>
+            <p><strong class="text-primary">Gute Werbung</strong> bleibt hängen - und genau das machen wir <strong class="text-primary">möglich</strong>!</p>
+            <p class="mb-5">Mit <strong class="text-primary">frischen Designs, cleveren Ideen</strong> und einem Blick fürs <strong class="text-primary">Detail</strong> gestalten wir <strong class="text-primary">Werbematerial</strong>, das auffällt und wirkt. Egal ob <strong class="text-primary">Flyer, Poster</strong> oder <strong class="text-primary">Online-Banner</strong>: Wir bringen deine <strong class="text-primary">Botschaft</strong> auf den Punkt und sorgen dafür, dass sie Eindruck hinterlässt.</p>
+            <p class="mb-5">Lass uns gemeinsam was <strong class="text-primary">Großes</strong> draus machen!</p>
             <a class="btn btn-sm btn-outline-primary" href="<?php echo $websiteUrl."design/"; ?>">
-              <i class="fas fa-info-circle mr-1"></i> Mehr Informationen
+              <i class="fas fa-info-circle mr-1"></i> Angebot Einholen
             </a>
           </div>
         </div>

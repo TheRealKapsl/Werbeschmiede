@@ -266,7 +266,7 @@
           <div class="col-lg-7 align-self-center pl-lg-5">
             <h3 class="h4 text-uppercase mb-2">Corporate Design & Identity</h3>
             <p>Wir gestalten <strong class="text-primary">Wiedererkennungswerte</strong>, die begeistern!</p>
-            <p class="mb-5">Von <strong class="text-primary">individuell</strong> angepassten E-Mail-Signaturen bis hin zu einem einheitlichen Farb- und Schriftdesign - wir kümmern uns um deine visuelle <strong class="text-primary">Firmenidentität</strong>. Mit Liebe zum <strong class="text-primary">Detail</strong> und einem klaren Fokus auf Konsistenz sorgen wir dafür, dass dein Projekt in jedem Medium class="text-primary">überzeugend</strong> auftritt.
+            <p class="mb-5">Von <strong class="text-primary">individuell</strong> angepassten E-Mail-Signaturen bis hin zu einem einheitlichen Farb- und Schriftdesign - wir kümmern uns um deine visuelle <strong class="text-primary">Firmenidentität</strong>. Mit Liebe zum <strong class="text-primary">Detail</strong> und einem klaren Fokus auf Konsistenz sorgen wir dafür, dass dein Projekt in jedem Medium <strong class="text-primary">überzeugend</strong> auftritt.
             
             <a class="btn btn-sm btn-outline-primary" href="<?php echo $websiteUrl."design/"; ?>">
               <i class="fas fa-info-circle mr-1"></i> Mehr Informationen

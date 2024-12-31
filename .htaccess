@@ -1,8 +1,9 @@
-RewriteEngine on
+RewriteEngine On
 
-
-RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
-RewriteRule ^ /%1 [NC,L,R]
-
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+RewriteRule ^/$ index.php [L]
+RewriteRule ^/$ index.html [L]
+RewriteRule ^design/$ design.php [L]
+RewriteRule ^photography/$ photography.php [L]
+RewriteRule ^socialmedia/$ socialmedia.php [L]
+RewriteRule ^videos/$ videos.php [L]
+RewriteRule ^website/$ website.php [L]
